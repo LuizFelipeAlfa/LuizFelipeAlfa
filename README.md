@@ -50,7 +50,7 @@
 
 <h3> :earth_americas: &nbsp;Caçador/SC</h3> 
 
-[![Linkedin:LUIZ FELIPE KRAUS](https://img.shields.io/badge/-LUIZ FELIPE KRAUS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/luiz-felipe-kraus)
+[![Linkedin:LUIZ FELIPE KRAUS](https://img.shields.io/badge/-LUIZFELIPEKRAUS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/luiz-felipe-kraus)
 [![Gmail Badge](https://img.shields.io/badge/-lufekraus12@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lufekraus12@gmail.com)
 [![GitHub Luiz Felipe Pessoal]( https://img.shields.io/github/followers/LuizFelipeKraus?label=follow&style=social)](https://github.com/LuizFelipeAlfa)
 [![GitHub Luiz Felipe Empresarial]( https://img.shields.io/github/followers/LuizFelipeAlfa?label=follow&style=social)](https://github.com/LuizFelipeKraus)
