@@ -4,7 +4,7 @@
 <h3> :woman: &nbsp;Olá! Sou Luiz Felipe, apaixonado por programação e com um ano de experiência na indústria rodoviária. Durante minha formação acadêmica, participei de projetos envolvendo geração de código aleatório usando Java. Atualmente, estou focado em desenvolvimento em Python e busco me aperfeiçoar diariamente em otimização de processos e no desenvolvimento de APIs Restful.</h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **MIT em Arquitetura de Software** no <a href="link da sua faculdade">INFNET</a>.
+- 🎓 &nbsp; Estudando **MIT em Arquitetura de Software** no <a href="https://posgraduacao.infnet.edu.br/ead/mba-arquitetura-de-software/">INFNET</a>.
 - 💼 &nbsp; Trabalhando como **ANALISTA DE SISTEMAS** na <a href="https://alfatransportes.com.br">ALFA TRANSPORTES</a>
 - 🌱 &nbsp; Aprendendo mais sobre **DOCKER - JAVA - PYTHON**.
 
