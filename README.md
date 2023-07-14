@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=LuizFelipeAlfa&color=006bed)
 
 <h3> :woman: &nbsp;Olá! Sou Luiz Felipe, apaixonado por programação e com um ano de experiência na indústria rodoviária. Durante minha formação acadêmica, participei de projetos envolvendo geração de código aleatório usando Java. Atualmente, estou focado em desenvolvimento em Python e busco me aperfeiçoar diariamente em otimização de processos e no desenvolvimento de APIs Restful.</h3>
 
@@ -8,7 +8,7 @@
 - 💼 &nbsp; Trabalhando como **ANALISTA DE SISTEMAS** na <a href="https://alfatransportes.com.br">ALFA TRANSPORTES</a>
 - 🌱 &nbsp; Aprendendo mais sobre **DOCKER - JAVA - PYTHON**.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;JAVA - API - PYTHON - POSTGRESQL</h3>
 
 **Aplicações e Dados**
 
@@ -50,7 +50,7 @@
 
 <h3> :earth_americas: &nbsp;Caçador/SC</h3> 
 
-[![Linkedin:LUIZ FELIPE KRAUS](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/luiz-felipe-kraus)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lufekraus12@gmail.com)
-[![GitHub Luiz Felipe Pessoal]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/LuizFelipeAlfa)
-[![GitHub Luiz Felipe Empresarial]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](https://github.com/LuizFelipeKraus)
+[![Linkedin:LUIZ FELIPE KRAUS](https://img.shields.io/badge/-LUIZ FELIPE KRAUS-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](www.linkedin.com/in/luiz-felipe-kraus)
+[![Gmail Badge](https://img.shields.io/badge/-lufekraus12@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:lufekraus12@gmail.com)
+[![GitHub Luiz Felipe Pessoal]( https://img.shields.io/github/followers/LuizFelipeKraus?label=follow&style=social)](https://github.com/LuizFelipeAlfa)
+[![GitHub Luiz Felipe Empresarial]( https://img.shields.io/github/followers/LuizFelipeAlfa?label=follow&style=social)](https://github.com/LuizFelipeKraus)
